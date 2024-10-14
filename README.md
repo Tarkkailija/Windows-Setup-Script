@@ -1,7 +1,7 @@
 # Windows-Setup-Script
 My Windows Setup Script
 
-Note: Uses ```https://github.com/ScoopInstaller/Scoop/wiki/Example-Setup-Scripts``` for reference
+Note: Uses https://github.com/ScoopInstaller/Scoop/wiki/Example-Setup-Scripts for reference
 Practice Powershell Scripting
 
 ---
